@@ -17,7 +17,7 @@
  </p> 
  </div> 
  <p align="center"> 
-  Currently working on <a href="https://github.com/Loki-Xer/Jarvis-md">Jarvis-md</a> to make a better WhatsApp bot
+  Currently working on <a href="https://github.com/Loki-Xer/Jarvis">Jarvis-bot</a> to make a better WhatsApp bot
      <br> 
      <br>  
  </p> 
